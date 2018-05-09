@@ -1,0 +1,20 @@
+Type,Name,ID,es,br
+Object,LoginCustomerTitle,"//form[@id=""loginform""]//h3[text()[contains(.,""Usuário"")]]",,
+Object,LoginCustomerUsername,username_CUSTOMER,,
+Object,LoginCustomerPassword,password_CUSTOMER,,
+Object,LoginCustomerCheckBox,rememberMe_CUSTOMER,,
+Object,LoginCustomerResetPassword,resetPassword,,
+Object,CreateCustomerAccount,"//a[@href[contains(.,'create-new-account')]]/button",,
+Object,LoginButton,btnLogin,,
+Object,LoginProviderTitle,"//form[@id=""loginform""]//h3[text()[contains(.,""Usuário"")]]",,
+Object,LoginProviderUsername,username_SERVICE_PROVIDER,,
+Object,LoginProviderPassword,password_SERVICE_PROVIDER,,
+Object,LoginProviderCheckBox,rememberMe_SERVICE_PROVIDER,,
+Object,LoginProviderResetPassword,resetPassword,,
+Object,CreateProviderAccount,"//a[@href[contains(.,'provider-signup-botton')]]/button",,
+Text,LoginTitleText,,Cliente,Usuário
+Text,LoginUsernameText,,Correo electrónico,Endereço de Email
+Text,LoginPasswordText,,Contraseña,Senha
+Text,LoginCheckBoxText,,Recordar sesión,Lembrar-me
+Text,LoginResetPasswordText,,¿Olvidaste tu contraseña?,Esqueci minha senha
+Text,LoginButtonText,,Acceso,Login

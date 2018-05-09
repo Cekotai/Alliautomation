@@ -1,0 +1,11 @@
+Type,Name,ID,es,br
+Object,ProfileTitle,"//*[@id=""ng-app""]/body/div[1]/div[1]/div/div/div/div[1]/div[1]/h1",,
+Object,ProfileCreateWork,"//*[@prefix-href[contains(.,'#/customer/work-request/create')]]",,
+Object,ProfileInformationView,"//*[@prefix-href[contains(.,'#/customer/profile-information-view')]]",,
+Object,ProfileViewWork,"//*[@prefix-href[contains(.,'#/customer/work-request/view-manage')]]",,
+Object,ProfileRating,"//*[@prefix-href[contains(.,'#/customer/rating/view-manage')]]",,
+Text,ProfileTitleText,,ÁREA DEL CLIENTE,
+Text,ProfileCreateWorkText,,Solicita un servicio,
+Text,ProfileInformationViewText,,Información de Mi perfil,
+Text,ProfileViewWorkText,,GESTIONA LOS SERVICIOS,
+Text,ProfileRatingText,,MIS VALORACIONES,

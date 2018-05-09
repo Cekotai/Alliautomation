@@ -1,0 +1,18 @@
+Type,Name,ID,SP,EN
+Object,LoginUsername,username_CUSTOMER,,
+Object,LoginPassword,password_CUSTOMER,,
+Object,LoginCheckBox,rememberMe_CUSTOMER,,
+Object,LoginResetPassword,resetPassword,,
+Object,LoginButton,btnLogin,,
+,,"xpath=//a[@href[contains(.,'customer-work-request-button')]]/button",,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Text,,,Cliente,Cliente
+Text,,,Correo electrónico,Correo electrónico
+Text,,,Contraseña,Contraseña
+Text,,,Recordar sesión,Recordar sesión
+Text,,,¿Olvidaste tu contraseña?,¿Olvidaste tu contraseña?
+,,,PIDE UN PRESUPUESTO,

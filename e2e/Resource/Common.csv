@@ -1,0 +1,14 @@
+Type,Name,ID,es,br
+Object,CreateNewAccount,"xpath=//a[@href[contains(.,'create-new-account')]]",Crea una nueva cuenta,REGISTRE-SE E PE�A UM OR�AMENTO
+Object,CustomerProfile,"xpath=//a[@href[contains(.,'customer-profile')]]",Cliente,usu�rio
+Object,ProviderProfile,"xpath=//a[@href[contains(.,'professional-profile')]]",Profesional,profissional
+Object,Logout,"xpath=//*[@href[contains(.,'logout')]]",Cerrar sesi�n,
+Object,LoadingElement,xpath=//*[@class='loading-iframe ng-scope'],,
+Object,UrlCustomerD4,https://wb-aga-d4.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/,,
+Object,UrlAdminD4,https://wb-aga-d4.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/admin/,,
+Object,UrlProviderD4,https://wb-aga-d4.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/professional-profile/,,
+Object,UrlCustomerD5,https://wb-aga-d5.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/ ,,
+Object,UrlProviderD5,https://wb-aga-d5.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/professional-profile/ ,,
+Object,UrlAdminD5,https://wb-aga-d5.owe2-test.web.allianz/oneweb/cms/qa-repair4u.es/es/admin-profile/ ,,
+Object,UrlCustomerProd,https://www.repair4u.es/ ,,
+Object,UrlProviderProd,https://www.repair4u.es/profesional/  ,,

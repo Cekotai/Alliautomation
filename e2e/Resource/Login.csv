@@ -1,0 +1,15 @@
+Type,Name,ID,es,br
+Object,LoginCustomerTitle,"//form[@id=""loginform""]//h3[text()[contains(.,""Usu�rio"")]]",Cliente,Usu�rio
+Text,LoginCustomerUsername,username_CUSTOMER,Correo electr�nico,Endere�o de Email
+Text,LoginCustomerPassword,password_CUSTOMER,Contrase�a,Senha
+Checkbox,LoginCustomerCheckBox,rememberMe_CUSTOMER,Recordar sesi�n,Lembrar-me
+Object,LoginCustomerResetPassword,resetPassword,�Olvidaste tu contrase�a?,Esqueci minha senha
+Object,CreateCustomerAccount,"//a[@href[contains(.,'create-new-account')]]/button",Crea una nueva cuenta,
+Object,LoginButton,btnLogin,Acceso,Login
+Object,LoginProviderTitle,"//form[@id=""loginform""]//h3[text()[contains(.,""Usu�rio"")]]",Profesional,
+Text,LoginProviderUsername,username_SERVICE_PROVIDER,Correo electr�nico,
+Text,LoginProviderPassword,password_SERVICE_PROVIDER,Contrase�a,
+Checkbox,LoginProviderCheckBox,rememberMe_SERVICE_PROVIDER,Recordar sesi�n,
+Object,LoginProviderResetPassword,resetPassword,�Olvidaste tu contrase�a?,
+Object,CreateProviderAccount,"//a[@href[contains(.,'provider-signup-botton')]]/button",Date de Alta,
+Object,CreateWorkRequest,"//a[@href[contains(.,'customer-work-request-button')]]/button",PIDE UN PRESUPUESTO,
